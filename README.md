@@ -2,7 +2,7 @@
 
 ## How to install
 
-```powershell
+```console
 git clone https://github.com/ThyagoRib/library-back-end
 cd library-back-end/backend
 pip install -r requirements.txt
